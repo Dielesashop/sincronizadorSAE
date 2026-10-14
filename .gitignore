@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Secretos y Configuración
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
